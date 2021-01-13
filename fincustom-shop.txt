@@ -2,3 +2,4 @@ fincustom-shop
 - konsisten membuat konten minimal sehari 1x
 - membuat desain menarik untuk pemasaran produk
 - membuat forum diskusi 
+- membuat branding 
