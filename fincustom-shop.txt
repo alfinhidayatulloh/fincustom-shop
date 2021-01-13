@@ -3,5 +3,4 @@ fincustom-shop
 - membuat desain menarik untuk pemasaran produk
 - membuat forum diskusi 
 - membuat branding 
-- membuat jadwal promo
 - meningkatkan pelayanan
